@@ -14,3 +14,6 @@ CREATE TABLE `resquests` (\
   PRIMARY KEY (`ID`),\
   UNIQUE KEY `ID_UNIQUE` (`ID`)\
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci\
+
+## Informações Adicionais
+Para acesso a API deve ser inserido */api* ao final do domínio
