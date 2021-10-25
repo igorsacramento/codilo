@@ -16,4 +16,4 @@ CREATE TABLE `resquests` (\
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci\
 
 ## Informações Adicionais
-Para acesso a API deve ser inserido _/api_ ao final do domínio
+Para acesso a API deve ser inserido _*/api*_ ao final do domínio
